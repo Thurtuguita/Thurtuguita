@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="80" viewBox="0 0 500 80">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="80" viewBox="0 0 1200 80">
 
   <defs>
     <linearGradient id="text-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#F2B5D4"/>
-      <stop offset="50%" stop-color="#C4A7E7"/>
+      <stop offset="0%" stop-color="#ff7595"/>
+      <stop offset="50%" stop-color="#d865f8"/>
       <stop offset="100%" stop-color="#7BA7D9"/>
     </linearGradient>
 
@@ -11,7 +11,7 @@
       <rect x="0" y="0" width="0" height="80">
         <animate
           attributeName="width"
-          values="0;500;500;0"
+          values="0;1200;1200;0"
           keyTimes="0;0.4;0.7;1"
           dur="6s"
           repeatCount="indefinite"/>
@@ -21,11 +21,11 @@
 
   <!-- Primeiro texto -->
   <text
-    x="250"
+    x="600"
     y="48"
     text-anchor="middle"
     font-family="Courier New, Courier, monospace"
-    font-size="22"
+    font-size="28"
     font-weight="bold"
     fill="url(#text-gradient)"
     clip-path="url(#typing-clip)">
@@ -42,11 +42,11 @@
 
   <!-- Segundo texto -->
   <text
-    x="250"
+    x="600"
     y="48"
     text-anchor="middle"
     font-family="Courier New, Courier, monospace"
-    font-size="22"
+    font-size="28"
     font-weight="bold"
     fill="url(#text-gradient)"
     clip-path="url(#typing-clip)">

@@ -17,19 +17,19 @@
     <img width="120px" 
         alt="Stars" 
         title="Stars Profile" 
-        src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=30234A&labelColor=F2B5D4&logoColor=ffffff&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Thurtuguita" />
+        src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=30234A&labelColor=ff7595&logoColor=ffffff&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Thurtuguita" />
   </a>
   <a href="https://api.github-star-counter.workers.dev/user/Thurtuguita">
     <img width="111px" 
         alt="forks" 
         title="Forks Repository" 
-        src="https://custom-icon-badges.demolab.com/github/forks/Thurtuguita/Thurtuguita?color=30234A&logo=fork&style=for-the-badge&logoColor=white&labelColor=C4A7E7" />
+        src="https://custom-icon-badges.demolab.com/github/forks/Thurtuguita/Thurtuguita?color=30234A&logo=fork&style=for-the-badge&logoColor=white&labelColor=d865f8" />
   </a>
   <a href="https://github.com/Thurtuguita?tab=followers">
     <img width="150px" 
         alt="Followers" 
         title="Github Followers" 
-        src="https://custom-icon-badges.herokuapp.com/github/followers/Thurtuguita?color=30234A&labelColor=676fb7&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
+        src="https://custom-icon-badges.herokuapp.com/github/followers/Thurtuguita?color=30234A&labelColor=7BA7D9&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
   </a>
 </div>
 <br>
@@ -60,7 +60,7 @@ Some of my favorite games are:
 
 <a href="https://open.spotify.com/track/6T17ZI0glfM2IGLdUwtnLK">
   <img
-    src="https://img.shields.io/badge/%20JoyRide-CORTIS-1DB954?style=for-the-badge&logo=spotify&logoColor=white"
+    src="https://img.shields.io/badge/%20JoyRide-CORTIS-ff7595?style=for-the-badge&logo=spotify&logoColor=white"
     alt="JoyRide - CORTIS"
     align="right"
     hspace="75"
