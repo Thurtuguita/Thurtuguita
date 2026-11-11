@@ -44,11 +44,14 @@
 <br>
 <!-- About me -->
 
-<table border="0">
-  <tr>
-    <td width="65%" valign="top">
+<img src="./assets/about-me.gif" width="300" align="right" hspace="20">
+
+<div align="center">
 
 ### Who Am I? ≽(•⩊ •マ≼
+
+</div>
+<div align="justify">
 
 I'm a `Digital Games` student passionate about **technology, games, and pixel art.** I'm currently finishing my degree while exploring **mobile development**, learning more about **UI/UX**, and discovering new programming languages along the way.
 
@@ -59,28 +62,16 @@ Some of my favorite games are:
 - **Life is Strange**
 - **Little Nightmares**
 
-I'm always learning, creating, and looking for new ways to turn ideas into projects!
-
-</td>
-
-<td width="35%" align="center" valign="top">
-
-<img src="./assets/about-me.gif" width="250" alt="About me">
-
-<br><br>
-
 <a href="https://open.spotify.com/track/6T17ZI0glfM2IGLdUwtnLK">
   <img
     src="https://img.shields.io/badge/%20JoyRide-CORTIS-1DB954?style=for-the-badge&logo=spotify&logoColor=white"
     alt="JoyRide - CORTIS"
+    align="right"
+    hspace="80"
   >
 </a>
 
-</td>
-</tr>
-</table>
-
-<br clear="right">
+I'm always learning, creating, and looking for new ways to turn<br> ideas into projects!
 
 <div align="center">
 
