@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-label="Typewriter Intro">
+  <defs>
+    <linearGradient id="ti-stage" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#da77b0"/>
+      <stop offset="0.5" stop-color="#976daa"/>
+      <stop offset="1" stop-color="#2f3674"/>
+    </linearGradient>
+    <filter id="ti-shadow" x="-10%" y="-10%" width="120%" height="130%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="22"/>
+      <feOffset dy="14"/>
+      <feComponentTransfer><feFuncA type="linear" slope="0.5"/></feComponentTransfer>
+      <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="420" fill="url(#ti-stage)"/>
+
+  <!-- Terminal window -->
+  <g filter="url(#ti-shadow)">
+    <rect x="80" y="40" width="1040" height="340" rx="14" fill="#2b223b"/>
+    <!-- Title bar -->
+    <rect x="80" y="40" width="1040" height="38" rx="14" fill="#4f3e69"/>
+    <rect x="80" y="60" width="1040" height="18" fill="#4f3e69"/>
+    <line x1="80" y1="78" x2="1120" y2="78" stroke="#0a0c14" stroke-width="0.6"/>
+  </g>
+
+  <!-- Traffic lights -->
+  <circle cx="106" cy="59" r="6.5" fill="#ff5f56"/>
+  <circle cx="128" cy="59" r="6.5" fill="#ffbd2e"/>
+  <circle cx="150" cy="59" r="6.5" fill="#27c93f"/>
+
+  <!-- Window title -->
+  <text x="600" y="63" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11" fill="#a4fafa" letter-spacing="2">~/thurtuguita — studio — 2026</text>
+
+  <!-- Terminal content -->
+  <g font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="14">
+    <!-- Prompt 1 -->
+    <text x="110" y="112" fill="#ff7b96">thurtuguita@github</text>
+    <text x="250" y="112" fill="#7a7f99">:</text>
+    <text x="256" y="112" fill="#7bffcc">~</text>
+    <text x="266" y="112" fill="#7a7f99">$</text>
+    <text x="278" y="112" fill="#c9d1d9">whoami --verbose</text>
+    <text x="110" y="134" fill="#c9d1d9">↳ Max Arthur (Thurtuguita) — game.dev · pixel.artist · UI/UX</text>
+    <text x="110" y="152" fill="#7bffcc">  20yo · Brazil · changing people's lives through art and technology</text>
+
+    <!-- Prompt 2 -->
+    <text x="110" y="182" fill="#ff7b96">thurtuguita@github</text>
+    <text x="250" y="182" fill="#7a7f99">:</text>
+    <text x="256" y="182" fill="#7bffcc">~</text>
+    <text x="266" y="182" fill="#7a7f99">$</text>
+    <text x="278" y="182" fill="#c9d1d9">cat now.md</text>
+    <text x="110" y="204" fill="#fdff7a">## currently</text>
+    <text x="110" y="224" fill="#c9d1d9">- studying mobile development with Kotlin</text>
+    <text x="110" y="242" fill="#c9d1d9">- creating games and digital experiences with C++, GDScript and C#</text>
+    <text x="110" y="260" fill="#c9d1d9">- exploring design, technology and creativity</text>
+
+    <!-- Prompt 3 -->
+    <text x="110" y="290" fill="#ff7b96">thurtuguita@github</text>
+    <text x="250" y="290" fill="#7a7f99">:</text>
+    <text x="256" y="290" fill="#7bffcc">~</text>
+    <text x="266" y="290" fill="#7a7f99">$</text>
+    <text x="278" y="290" fill="#c9d1d9">contact --all</text>
+    <text x="110" y="312" fill="#98c8ff">→ github.com/thurtuguita</text>
+    <text x="320" y="312" fill="#98c8ff">in/maxarthur</text>
+    <text x="440" y="312" fill="#98c8ff">maxarthalves.contact@gmail.com</text>
+
+    <!-- Final prompt with cursor -->
+    <text x="110" y="342" fill="#ff7b96">thurtuguita@github</text>
+    <text x="250" y="342" fill="#7a7f99">:</text>
+    <text x="256" y="342" fill="#7bffcc">~</text>
+    <text x="266" y="342" fill="#7a7f99">$</text>
+    <rect x="282" y="330" width="9" height="14" fill="#7bffcc">
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- Status strip, inside the window rather than sitting on its edge. -->
+  <rect x="80" y="358" width="1040" height="22" rx="14" fill="#4f3e69"/>
+  <rect x="80" y="358" width="1040" height="12" fill="#4f3e69"/>
+  <line x1="80" y1="358" x2="1120" y2="358" stroke="#0a0c14" stroke-width="0.6"/>
+  <g transform="translate(80,373)" font-family="'JetBrains Mono', monospace" font-size="10" fill="#5a5f7a">
+    <text x="30" y="0" fill="#a4fafa">UTF-8</text>
+    <text x="96" y="0" fill="#a4fafa">zsh</text>
+    <text x="156" y="0" fill="#a4fafa">ctrl-l · clear</text>
+    <text x="1010" y="0" text-anchor="end" fill="#72f57d">● connected</text>
+  </g>
+</svg>
