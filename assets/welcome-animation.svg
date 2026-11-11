@@ -1,13 +1,4 @@
-```xml
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="80" viewBox="0 0 1200 80"> <!-- tamanho -->
-
-  <defs>
-    <linearGradient id="text-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#C4A7E7"/>
-      <stop offset="50%" stop-color="#F2B5D4"/>
-      <stop offset="100%" stop-color="#7BA7D9"/>
-    </linearGradient> <!-- fundo -->
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="80" viewBox="0 0 1200 80">
 
   <!-- Primeiro texto -->
   <text
@@ -16,10 +7,10 @@
     text-anchor="middle"
     font-family="Arial, sans-serif"
     font-size="24"
-    font-weight="bold"
-    fill="#C4A7E7">
+    font-weight="bold">
 
-    I'm Thurtuguita
+    <tspan fill="#F2B5D4">I'm</tspan>
+    <tspan fill="#C4A7E7"> Thurtuguita</tspan>
 
     <animate
       attributeName="opacity"
@@ -36,10 +27,12 @@
     text-anchor="middle"
     font-family="Arial, sans-serif"
     font-size="24"
-    font-weight="bold"
-    fill="url(#text-gradient)">
+    font-weight="bold">
 
-    Welcome to my world! (♡˙︶˙♡)
+    <tspan fill="#F2B5D4">Welcome</tspan>
+    <tspan fill="#C4A7E7"> to my</tspan>
+    <tspan fill="#7BA7D9"> world!</tspan>
+    <tspan fill="#F2B5D4"> (♡˙︶˙♡)</tspan>
 
     <animate
       attributeName="opacity"
@@ -50,4 +43,3 @@
   </text>
 
 </svg>
-```
