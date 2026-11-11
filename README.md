@@ -43,8 +43,7 @@
 
 <br>
 <!-- About me -->
-
-<img src="./assets/about-me.gif" width="300" align="right" hspace="20">
+<img src="./assets/about-me.gif" width="300" align="right" hspace="30">
 
 <div align="center">
 
