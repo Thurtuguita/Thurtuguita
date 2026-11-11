@@ -94,3 +94,7 @@ I'm always learning, creating, and looking for new ways to turn ideas into proje
 
 ---
 
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/Thurtuguita/Thurtuguita/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
