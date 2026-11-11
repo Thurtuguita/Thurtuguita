@@ -43,7 +43,8 @@
 
 <br>
 <!-- About me -->
-<img src="./assets/about-me.gif" width=250 align="right" style="margin-left: 30px; margin-right: 0;">
+
+<img src="./assets/about-me.gif" width="250" align="right" style="margin-left: 30px; margin-right: 0;">
 
 <a href="https://open.spotify.com/track/6T17ZI0glfM2IGLdUwtnLK">
   <img
@@ -57,14 +58,15 @@
 
 <div align="center">
 
-**Who Am I? ≽(•⩊ •マ≼**
+### Who Am I? ≽(•⩊ •マ≼
+
 </div>
 
 <div align="justify">
 
 I'm a `Digital Games` student passionate about **technology, games, and pixel art.** I'm currently finishing my degree while exploring **mobile development**, learning more about **UI/UX**, and discovering new programming languages along the way.
 
-Games have always been a part of my life and were one of the main things that sparked my interest in technology. 
+Games have always been a part of my life and were one of the main things that sparked my interest in technology.  
 Some of my favorite games are:
 
 - **Omori**
@@ -73,6 +75,7 @@ Some of my favorite games are:
 
 I'm always learning, creating, and looking for new ways to turn ideas into projects!
 
+</div>
 
 <br clear="right">
 
