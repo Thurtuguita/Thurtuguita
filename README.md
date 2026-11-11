@@ -35,12 +35,12 @@
 <br>
 
 <div align="center">
-
 <!--a href="https://github.com/Thurtuguita"-->
     <img
       src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=C4A7E7&size=28&center=true&vCenter=true&width=500&lines=I'm+Thurtuguita;Welcome+to+my+world+⋆ദ്ദി(˵ •̀ ᴗ - ˵ )+%E2%9C%A6"
       alt="I'm Thurtuguita - Welcome to my world ⋆ദ്ദി(˵ •̀ ᴗ - ˵ )"
     />
+
 </div>
 <br>
 
