@@ -52,7 +52,7 @@
 </div>
 <div align="justify">
 
-I'm a `Digital Games` student passionate about **technology, games, and pixel art.** I'm currently finishing my degree while exploring **mobile development**, learning more about **UI/UX**, and discovering new programming languages along the way.
+I'm a `Digital Games` student passionate about **technology, games, and pixel art.**<br> I'm currently finishing my degree while exploring **mobile development**, learning<br> more about **UI/UX**, and discovering new programming languages along the way.
 
 Games have always been a part of my life and were one of the main things that sparked my interest in technology.  
 Some of my favorite games are:
