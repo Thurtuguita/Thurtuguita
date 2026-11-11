@@ -29,16 +29,13 @@
     <img width="150px" 
         alt="Followers" 
         title="Github Followers" 
-        src="https://custom-icon-badges.herokuapp.com/github/followers/Thurtuguita?color=30234A&labelColor=B4E1EB&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
+        src="https://custom-icon-badges.herokuapp.com/github/followers/Thurtuguita?color=30234A&labelColor=676fb7&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
   </a>
 </div>
 <br>
 
 <div align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=C4A7E7&size=28&center=true&vCenter=true&width=500&lines=I%27m+Thurtuguita;Welcome+to+my+world+%E2%8B%86%E0%B4%A6%E0%B5%8D%E0%B4%A6%E0%B4%BF%28%CB%B5+%E2%80%A2%CC%80+%E1%B4%97+-+%CB%B5+%29+%E2%9C%A6"
-    alt="I'm Thurtuguita - Welcome to my world"
-  />
+  <img src="./assets/welcome-animation.svg" alt="I'm Thurtuguita - Welcome to my world" />
 </div>
 
 <br>
