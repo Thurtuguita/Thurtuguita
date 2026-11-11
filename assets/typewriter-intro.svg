@@ -60,15 +60,9 @@
     <text x="256" y="290" fill="#7bffcc">~</text>
     <text x="266" y="290" fill="#7a7f99">$</text>
     <text x="278" y="290" fill="#c9d1d9">contact --all</text>
-    <a href="https://github.com/Thurtuguita" target="_blank">
     <text x="110" y="312" fill="#98c8ff">→ github.com/thurtuguita</text>
-</a>
-    <a href="https://www.linkedin.com/in/maxarthur/" target="_blank">
     <text x="320" y="312" fill="#98c8ff">in/maxarthur</text>
-</a>
-    <a href="mailto:maxarthalves.contact@gmail.com">
-    <text x="440" y="312" fill="#98c8ff">maxarthalves.contact@gmail.com</text>
-</a>
+     <text x="440" y="312" fill="#98c8ff">maxarthalves.contact@gmail.com</text>
 
     <!-- Final prompt with cursor -->
     <text x="110" y="342" fill="#ff7b96">thurtuguita@github</text>

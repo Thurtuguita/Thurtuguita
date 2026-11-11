@@ -43,7 +43,7 @@
 
 <br>
 <!-- About me -->
-<img src="./assets/about-me.gif" width="300" align="right" hspace="30">
+<img src="./assets/about-me.gif" width="300" align="right">
 
 <div align="center">
 
@@ -54,7 +54,7 @@
 
 I'm a `Digital Games` student passionate about **technology, games, and pixel art.**<br> I'm currently finishing my degree while exploring **mobile development**, learning<br> more about **UI/UX**, and discovering new programming languages along the way.
 
-Games have always been a part of my life and were one of the main things that sparked my interest in technology.  
+Games have always been a part of my life and were one of the main things that<br> sparked my interest in technology.  
 Some of my favorite games are:
 
 - **Omori**
