@@ -44,25 +44,11 @@
 <br>
 <!-- About me -->
 
-<img src="./assets/about-me.gif" width="250" align="right" style="margin-left: 30px; margin-right: 0;">
-
-<a href="https://open.spotify.com/track/6T17ZI0glfM2IGLdUwtnLK">
-  <img
-    src="https://img.shields.io/badge/%20JoyRide-CORTIS-1DB954?style=for-the-badge&logo=spotify&logoColor=white"
-    alt="JoyRide - CORTIS"
-    align="right"
-    hspace="45"
-    vspace="15"
-  >
-</a>
-
-<div align="center">
+<table>
+  <tr>
+    <td width="65%" valign="top">
 
 ### Who Am I? ≽(•⩊ •マ≼
-
-</div>
-
-<div align="justify">
 
 I'm a `Digital Games` student passionate about **technology, games, and pixel art.** I'm currently finishing my degree while exploring **mobile development**, learning more about **UI/UX**, and discovering new programming languages along the way.
 
@@ -75,7 +61,24 @@ Some of my favorite games are:
 
 I'm always learning, creating, and looking for new ways to turn ideas into projects!
 
-</div>
+</td>
+
+<td width="35%" align="center" valign="top">
+
+<img src="./assets/about-me.gif" width="250" alt="About me">
+
+<br><br>
+
+<a href="https://open.spotify.com/track/6T17ZI0glfM2IGLdUwtnLK">
+  <img
+    src="https://img.shields.io/badge/%20JoyRide-CORTIS-1DB954?style=for-the-badge&logo=spotify&logoColor=white"
+    alt="JoyRide - CORTIS"
+  >
+</a>
+
+</td>
+</tr>
+</table>
 
 <br clear="right">
 
